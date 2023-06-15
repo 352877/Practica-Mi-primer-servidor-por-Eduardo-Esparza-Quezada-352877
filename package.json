@@ -1,0 +1,23 @@
+{
+  "name": "mi-primer-servidor",
+  "version": "1.0.0",
+  "description": "un servidor creado con node.js",
+  "main": "hola-mundo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/352877/Practica-Mi-primer-servidor-por-Eduardo-Esparza-Quezada-352877.git"
+  },
+  "keywords": [
+    "Servidor",
+    "node"
+  ],
+  "author": "Eduardo Esparza Quezada 352877",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/352877/Practica-Mi-primer-servidor-por-Eduardo-Esparza-Quezada-352877/issues"
+  },
+  "homepage": "https://github.com/352877/Practica-Mi-primer-servidor-por-Eduardo-Esparza-Quezada-352877#readme"
+}
