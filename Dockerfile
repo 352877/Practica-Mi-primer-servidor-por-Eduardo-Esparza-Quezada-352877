@@ -1,6 +1,6 @@
 FROM node:14
 
-WORKDIR C:\Users\angel\mi-primer-servidor
+WORKDIR /C/Users/angel/mi-primer-servidor
 
 COPY package*.json ./
 
@@ -10,4 +10,4 @@ COPY . .
 
 EXPOSE 3050
 
-CMD [ "node", "server.js" ]
+CMD [ "node", "/C/Users/angel/mi-primer-servidor/servidor-asincrono.js" ]
