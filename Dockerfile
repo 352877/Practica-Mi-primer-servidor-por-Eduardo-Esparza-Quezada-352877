@@ -1,6 +1,9 @@
 FROM node:14
 
-WORKDIR C:\Users\angel\mi-primer-servidor
+WORKDIR /usr/src/app
+
+COPY C:\Users\angel\mi-primer-servidor ./
+
 
 COPY package*.json ./
 
